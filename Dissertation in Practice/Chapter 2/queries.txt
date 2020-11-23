@@ -1,0 +1,15 @@
+Query terms: 
+
+("chatbot" OR "chat bot" OR "conversational agent" OR "pedagogical agent" OR “instructional agent”)
+
+(("chatbot" OR "chat bot" OR "conversational agent" OR "pedagogical agent" OR “instructional agent”) AND (“study abroad”))
+
+(("chatbot" OR "chat bot" OR "conversational agent" OR "pedagogical agent" OR “instructional agent”) AND (“higher education” OR “university” OR “college”))
+
+(("chatbot" OR "chat bot" OR "conversational agent" OR "pedagogical agent" OR “instructional agent”) AND (“action research”))
+
+Queried Databases:
+
+JSTOR Arts & Sciences IV
+Academic Search Complete
+Education Source
